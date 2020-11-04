@@ -1,4 +1,4 @@
-# choose-your-adevnture-story-editor
+# choose-your-adventure-story-editor
 
 A python program that lets users create a choose-your-own-adventure type of story in the terminal. It is designed to work with MacOS and Linux. 
 The editory.py file can be used to create a story with the commands shown at the bottom of the terminal when the file is run. Similarly, reader.py can be used to read a story created using the editor.py program. 
